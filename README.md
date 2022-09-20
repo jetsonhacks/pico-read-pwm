@@ -1,4 +1,4 @@
-# readPWM
+# pico-read-pwm
 Read PWM signals from the Raspberry Pi Pico
 
 Some simple software sketches exploring how to read R/C Receiver PWM pulses on a Raspberry Pi Pico.
